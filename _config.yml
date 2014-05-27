@@ -1,0 +1,6 @@
+name: Noman Siddiqui
+description: my personal blog
+url: "http://localhost:4000"
+
+markdown: kramdown
+pygments: true
