@@ -39,7 +39,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width: 60em;
 }
 
 
@@ -103,4 +103,19 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+.images {
+    text-align : center;
+}
+.linkedin {
+    width  : 75px;
+    height : 75px;
+    margin : 10px;
+}
+
+.github {
+    width  : 100px;
+    height : 100px;
+    margin : 10px;
 }
